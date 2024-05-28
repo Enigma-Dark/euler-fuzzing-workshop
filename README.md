@@ -1,4 +1,4 @@
-# Mastering Fuzzing
+# Fuzzing Euler v2
 
 This repo contains all the details to follow along with the **Fuzzing Euler** workshop/talk. 
 
